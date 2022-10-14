@@ -13,6 +13,8 @@ for example:
  ```$ ps```
 
 output:
+
+
 ![ps command](ps_command.png)
 
 
@@ -57,6 +59,7 @@ For example: to download the latest version of WordPress
 
 output:
 
+
 ![wget command](wget_command.png)
 
 ## The "cal" command
@@ -69,6 +72,8 @@ for example:
 
 output:
 
+
+
 ![cal command](cal_command.png)
 
 ## The "env" command
@@ -77,6 +82,7 @@ Displays all environment variables. It is also used to run a utility or command 
 
 syntax :
 
+
 env [OPTION]... [-][NAME=VALUE]... [COMMAND [ARG]...]
 
 for example, **without any argument** : print out a list of all environment variables
@@ -84,6 +90,8 @@ for example, **without any argument** : print out a list of all environment vari
 `$  env`
 
 output:
+
+
 
 ![env command](env_command.png)
 
@@ -98,9 +106,12 @@ To install finger tool use the following commands as per your Linux distribution
 `$sudo apt-get install finger`
 
 ***To finger or get details of a user***
+
 `$ finger`
 
 output:
+
+
 
 ![finger command](finger_command.png)
 
@@ -112,6 +123,8 @@ To see history in action, open a terminal program on your Linux installation and
 `$ history`
 
 output: 
+
+
 
 ![history1 command](history_1_command.png)
 
@@ -126,7 +139,10 @@ This command is most commonly used for checking the hostname of your Linux syste
 
 `$ hostname`
 
+
 output:
+
+
 
 ![hostname command](hostname_command.png)
 
@@ -136,9 +152,13 @@ output:
 
 Displays all local IP addresses of the host.
 
+
 `$ hostname I`
 
+
 output:
+
+
 
 ![hostname I command](hostnameIcommand.png)
 
@@ -151,9 +171,13 @@ The ip command is a Linux net-tool for system and network administrators. IP sta
 
 for example:
 
+
 `ip a`
 
 output:
+
+
+
 ![ip a command](ip_a_command.png)
 
 Displays all network interfaces and IP addresses.
@@ -170,6 +194,8 @@ for example:
 `$ last reboot`
 
 output:
+
+
 
 ![last reboot command](last_reboot_command.png)
 
