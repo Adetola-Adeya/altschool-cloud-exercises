@@ -20,6 +20,8 @@ User home directory
 Login shell
 
 Below are the contents of the /etc/passwd file:
+
+
 ![passwd](passwd.png)
 
 ## /etc/group
